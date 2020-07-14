@@ -25,6 +25,15 @@
 - Gitbash
 - Google Chrome
 ```
+
+## Sources
+
+``` 
+- Fontawesome
+- Pexels
+- Udemy
+- Traversy
+```
      
 ## Live Link
 
