@@ -1,8 +1,8 @@
 # Hotel Website
- - live link http://exam.pacer.jeffwalsh.co.za/
+ - live link https://jeffpwalsh.github.io/hotel-website/index.html
  
  
- ![EXAM PACER RENDER](/render.JPG)
+ ![HOTEL WEBSITE RENDER](/render.JPG)
  
  
  ## Description
@@ -28,7 +28,7 @@
      
 ## Live Link
 
-- http://exam.pacer.jeffwalsh.co.za/
+- https://jeffpwalsh.github.io/hotel-website/index.html
   
  ## Log
  14/07/2020
