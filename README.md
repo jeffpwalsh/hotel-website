@@ -1,4 +1,4 @@
-# Hotel Website
+# Hotel Website 
  - live link https://jeffpwalsh.github.io/hotel-website/index.html
  
  
@@ -6,7 +6,7 @@
  
  
  ## Description
- - Custom CSS and HTML theme for a Hotel Website.
+ - Custom CSS and HTML *theme* for a Hotel Website.
  - Responsive design (Media Queries: max-width: 768px)
  
 ## Table of Contents
