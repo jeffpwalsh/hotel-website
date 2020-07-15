@@ -6,7 +6,8 @@
  
  
  ## Description
- - Custom CSS and HTML theme for a Hotel Website
+ - Custom CSS and HTML theme for a Hotel Website.
+ - Responsive design (Media Queries: max-width: 768px)
  
 ## Table of Contents
 ``` 
@@ -46,6 +47,10 @@
 - README created
 - Deployed
 
+15/07/2020
+
+- mobile.css added
+- media queries (max-width: 768px) added
 
 
 
