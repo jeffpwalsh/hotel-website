@@ -1,5 +1,5 @@
 # Hotel Website 
- - live link https://jeffpwalsh.github.io/hotel-website/index.html
+ - live link http://hotel.website.jeffwalsh.co.za/
  
  
  ![HOTEL WEBSITE RENDER](/render.JPG)
@@ -38,7 +38,7 @@
      
 ## Live Link
 
-- https://jeffpwalsh.github.io/hotel-website/index.html
+- http://hotel.website.jeffwalsh.co.za/
   
  ## Log
  14/07/2020
